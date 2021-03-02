@@ -1,4 +1,9 @@
+
 ### Hi there 👋
+<p>
+     <a href="https://github.com/prerna-saraogi"><img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github" alt="GitHub"></a>
+     <a href="mailto:prernasaraogi44@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" title="prernasaraogi44@gmail.com"></a>
+</p>
 
 <!--
 **prerna-saraogi/prerna-saraogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
